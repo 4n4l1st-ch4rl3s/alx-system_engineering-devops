@@ -1,0 +1,2 @@
+#!/bin/bash
+shred -uvz /tmp/my_first_directory/betty
