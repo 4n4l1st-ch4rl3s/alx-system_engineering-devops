@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -a --relative ./[A-Z]* /tmp/u/
+rsync -a --relative --delete ./[A-Z]* /tmp/u/
