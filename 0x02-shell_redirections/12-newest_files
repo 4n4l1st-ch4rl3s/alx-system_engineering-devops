@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltC | head -10
+ls -ltC1 | head -10
