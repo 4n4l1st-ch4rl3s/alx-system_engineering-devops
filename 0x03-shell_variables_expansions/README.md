@@ -1,0 +1,3 @@
+# README
+ 
+ Shell variables expansion
